@@ -1,7 +1,10 @@
 # 100-days-of-python
  Summary of projects completed during the 100-day Python bootcamp, by Dr. Angela Yu.
 
-    Day11 - Blackjack Project
-        Console version of the game Blackjack
+    Day 11 - Blackjack Project
+        Console version of the game Blackjack.
+
+    Day 15 - Coffee Machine
+        Simple but efficient coffe machine script.
 
  ‼️Personal education purposes only!
