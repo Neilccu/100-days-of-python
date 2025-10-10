@@ -5,6 +5,6 @@
         Console version of the game Blackjack.
 
     Day 15 - Coffee Machine
-        Simple but efficient coffe machine script.
+        Simple but efficient coffee machine script.
 
  ‼️Personal education purposes only!
