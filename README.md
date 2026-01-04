@@ -10,5 +10,8 @@
     Day 16 - Coffe Machino OOP
         OOP version of the Day 15 coffee machine script
 
+    Day 17 - Quiz OOP
+        OOP console version of quiz game
+
  ‼️Personal education purposes only!
  
