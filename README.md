@@ -13,5 +13,8 @@
     Day 17 - Quiz OOP
         OOP console version of quiz game
 
+    Day 18 - Hirst painting
+        Simple version of a Hirst painting generator based on turtle graphics    
+    
  ‼️Personal education purposes only!
  
