@@ -14,7 +14,10 @@
         OOP console version of quiz game
 
     Day 18 - Hirst painting
-        Simple version of a Hirst painting generator based on turtle graphics    
+        Simple version of a Hirst painting generator based on turtle graphics
+
+    Day 19 - Turtle race
+        Turtle race game based on turtle graphics
     
  ‼️Personal education purposes only!
  
