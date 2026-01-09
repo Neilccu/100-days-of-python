@@ -18,6 +18,9 @@
 
     Day 19 - Turtle race
         Turtle race game based on turtle graphics
+
+    Day 20/21 - Snake game
+        Classic snake game with turtle graphics
     
  ‼️Personal education purposes only!
  
