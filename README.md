@@ -21,6 +21,12 @@
 
     Day 20/21 - Snake game
         Classic snake game with turtle graphics
+
+    Day 22 - Pong game
+        Classig pong game with turtle graphics
+
+    Day 23 - Turtle crossing game
+        Simple turtle crossing game, with clases, inheritance and reset game setup
     
  ‼️Personal education purposes only!
  
